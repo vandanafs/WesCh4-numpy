@@ -1,9 +1,9 @@
-# WesCh5 Getting Started with pandas
+# WesCh4 NumPy Basics: Arrays and Vectorized Computation
 
-notebook for ch5
+notebook for ch4
 
 
-This lab is a repo for your work on Wes McKinney's book "Python for Data Analysis, 2nd Ed." in Chapter 5, _Getting Started with pandas_.
+This lab is a repo for your work on Wes McKinney's book "Python for Data Analysis, 2nd Ed." in Chapter 4, _NumPy Basics: Arrays and Vectorized Computation_.
 
 As for each of the chapters in this series, I want you follow the "Coding The Hard Way" methodology. (See Below)
 
@@ -13,7 +13,7 @@ The finished notebook will have all the inputs, outputs and graphs form followin
 
 BE SURE to commit at the end of every subsection, and push just about as often. Remember, commits and pushes are _FREE_ so use them liberally!
 
-So to be clear, move through Chapter 5, typing in the inputs, running the code, getting the output. Add *Markdown Cells* when you want to comment a section or subsection.
+So to be clear, move through Chapter 4, typing in the inputs, running the code, getting the output. Add *Markdown Cells* when you want to comment a section or subsection.
 
 Submit the lab when you're done.
 
